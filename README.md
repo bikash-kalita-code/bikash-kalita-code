@@ -1,8 +1,8 @@
 <!--
 Link for the badges: https://dev.to/envoy_/150-badges-for-github-pnk
 Github status: https://dev.to/envoy_/150-badges-for-github-pnk#github-stats
-Project status : Add maintenance status images from the following link: https://dev.to/envoy_/150-badges-for-github-pnk#maintained
-Website Status : Add webstatus from images from the following linkL https://dev.to/envoy_/150-badges-for-github-pnk#website-stats
+Project status : https://dev.to/envoy_/150-badges-for-github-pnk#maintained
+Website Status : https://dev.to/envoy_/150-badges-for-github-pnk#website-stats
 -->
 
 ### Hi there 👋
@@ -15,14 +15,12 @@ Website Status : Add webstatus from images from the following linkL https://dev.
 </picture>
 
 ## About me
-
 I am a Backend and Mobile Developer with a passion for creating high-performance applications. 
 I am committed to delivering high-quality code and strive to continuously learn and improve my skills. You can find some of my projects on my GitHub page.
 
 Thank you for taking the time to visit my page. I am always open to new opportunities, so please don't hesitate to contact me if you have any questions or if you would like to collaborate.
 
 ## My Tech Stack
-
 <!-- 
 Find badges here
 https://dev.to/envoy_/150-badges-for-github-pnk 
@@ -32,37 +30,37 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <td>👩‍💻 Languages </td>
   <td>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=4597CE" />
+   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    
+   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   </td>
  </tr>
-  <tr>
-   <td>🚀 Frontend Frameworks </td>
+ <tr>
+  <td>🚀 Frontend Frameworks </td>
   <td> 
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   </td>
  </tr>
-   <tr>
-   <td>🚀 Backend Frameworks </td>
+ <tr>
+  <td>🚀 Backend Frameworks </td>
   <td> 
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   </td>
  </tr>
-    <tr>
-   <td>🚀 Mobile Frameworks </td>
+ <tr>
+  <td>🚀 Mobile Frameworks </td>
   <td> 
    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   </td>
  </tr>
-  <tr>
-   <td>⚡ Databases</td>
+ <tr>
+  <td>⚡ Databases</td>
   <td> 
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -72,21 +70,21 @@ https://dev.to/envoy_/150-badges-for-github-pnk
    <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" />
   </td>
  </tr>
-  <tr>
-   <td>📑 Version control </td>
-  <td> 
-     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+ <tr>
+  <td>📑 Version control </td>
+  <td>
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </td>
  </tr>
-  <tr>
-   <td>👨‍🔬 Testing </td>
+ <tr>
+  <td>👨‍🔬 Testing </td>
   <td> 
    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   </td>
  </tr>
  <tr>
-   <td>👨‍🔬 Workflow Platforms </td>
+  <td>👨‍🔬 Workflow Platforms </td>
   <td> 
    <img src="	https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
    <img src="" />
@@ -94,68 +92,69 @@ https://dev.to/envoy_/150-badges-for-github-pnk
  </tr>
  <tr>
    <td>👨‍🔬 IoT </td>
-  <td> 
+   <td> 
    <!-- Sub categorize the following into "Prototyping tools"  -->
    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
   </td>
  </tr>
-   <tr>
-   <td>👨‍🔬 ORM </td>
+ <tr>
+  <td>👨‍🔬 ORM </td>
   <td> 
-   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   </td>
  </tr>
-  <tr>
-   <td>📦 Package Manager </td>
+ <tr>
+  <td>📦 Package Manager </td>
   <td> 
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
   </td>
  </tr>
-  <tr>
-   <td>🧰 Tools </td>
+ <tr>
+  <td>🧰 Tools </td>
   <td> 
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
   </td>
  </tr>
  <tr>
-   <td>🖥️ Message Broker Platform </td>
+  <td>🖥️ Message Broker Platform </td>
   <td> 
    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
   </td>
  </tr>
  <tr>
-   <td>🖥️ Linters </td>
+  <td>🖥️ Linters </td>
   <td> 
-   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
-   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
+    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
   </td>
  </tr>
-  <tr>
-   <td>🖥️ OS </td>
+ <tr>
+  <td>🖥️ OS </td>
   <td> 
    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </td>
-     <tr>
-   <td>🖥️ IDE </td>
+ </tr> 
+ <tr>
+  <td>🖥️ IDE </td>
   <td> 
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
   </td>
  </tr>
- </table>
+</table>
  
- <div align="center">
+<div align="center">
  <h2>👋 Connect with me on </h2>
- 	<a href="https://twitter.com/bikash_kalita01"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
- <a href="https://www.linkedin.com/in/bikash-kalita-312566183"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
- </div>
+ 	<a href="https://twitter.com/bikash_kalita01"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/bikash-kalita-312566183"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+</div>
 
 <!-- 
 Collapsed Contents
