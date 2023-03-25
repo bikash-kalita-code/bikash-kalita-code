@@ -7,6 +7,7 @@ Header Image Generator : https://leviarista.github.io/github-profile-header-gene
 Top Github profile README templates : https://dev.to/github/10-standout-github-profile-readmes-h2o
 -->
 <img src="https://img.shields.io/github/license/bikash-kalita-code/bikash-kalita-code.svg" />
+<img src="https://img.shields.io/github/watchers/bikash-kalita-code/bikash-kalita-code.svg"/>
 
 ### Hi there 👋
 <picture>
