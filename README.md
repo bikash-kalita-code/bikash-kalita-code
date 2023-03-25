@@ -6,8 +6,6 @@ Website Status : https://dev.to/envoy_/150-badges-for-github-pnk#website-stats
 Header Image Generator : https://leviarista.github.io/github-profile-header-generator/
 Top Github profile README templates : https://dev.to/github/10-standout-github-profile-readmes-h2o
 -->
-<img src="https://img.shields.io/github/license/bikash-kalita-code/bikash-kalita-code.svg" />
-<img src="https://img.shields.io/github/watchers/bikash-kalita-code/bikash-kalita-code.svg"/>
 
 ### Hi there 👋
 <picture>
@@ -15,12 +13,15 @@ Top Github profile README templates : https://dev.to/github/10-standout-github-p
  <source media="(prefers-color-scheme: light)" srcset="github-header-image.png">
  <img alt="" src="github-header-image.png">
 </picture>
+<br />
+<img src="https://img.shields.io/github/followers/bikash-kalita-code.svg?style=social&label=Follow&maxAge=2592000"/>
 
 ## About me
 I am a Backend and Mobile Developer with a passion for creating high-performance applications. 
 I am committed to delivering high-quality code and strive to continuously learn and improve my skills. You can find some of my projects on my GitHub page.
 
 Thank you for taking the time to visit my page. I am always open to new opportunities, so please don't hesitate to contact me if you have any questions or if you would like to collaborate.
+<br />
 
 ## My Tech Stack
 
@@ -150,7 +151,6 @@ Thank you for taking the time to visit my page. I am always open to new opportun
   </th>
  </tr>
 </table>
-<img src="https://starchart.cc/bikash-kalita-code/bikash-kalita-code.svg" />
 
 ## Top Repositories
 <a href="https://github.com/bikash-kalita-code/MHealthBackend">
