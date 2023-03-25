@@ -143,13 +143,14 @@ Thank you for taking the time to visit my page. I am always open to new opportun
 <table width="100%" style="margin: 0px;">
  <tr>
   <th>
-   <a href="https://github.com/bikash-kalita-code/bikash-kalita-code/edit/main/README.md#my-github-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bikash-kalita-code&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Bikash's github stats" /></a>
+   <img src="https://github-readme-stats.vercel.app/api?username=bikash-kalita-code&theme=blue-green" />
   </th>
   <th>
-   <a href="https://github.com/bikash-kalita-code/bikash-kalita-code/edit/main/README.md#my-github-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikash-kalita-code&layout=compact&theme=dark&hide_border=true" /></a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikash-kalita-code&theme=blue-green" />
   </th>
  </tr>
 </table>
+<img src="https://starchart.cc/bikash-kalita-code/bikash-kalita-code.svg" />
 
 ## Top Repositories
 <a href="https://github.com/bikash-kalita-code/MHealthBackend">
