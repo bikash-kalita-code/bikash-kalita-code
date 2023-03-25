@@ -3,11 +3,10 @@ Link for the badges: https://dev.to/envoy_/150-badges-for-github-pnk
 Github status: https://dev.to/envoy_/150-badges-for-github-pnk#github-stats
 Project status : https://dev.to/envoy_/150-badges-for-github-pnk#maintained
 Website Status : https://dev.to/envoy_/150-badges-for-github-pnk#website-stats
+Header Image Generator : https://leviarista.github.io/github-profile-header-generator/
 -->
 
 ### Hi there 👋
-
-<!-- Source for generating the below github-header-image : https://leviarista.github.io/github-profile-header-generator/ -->
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="github-header-image.png">
  <source media="(prefers-color-scheme: light)" srcset="github-header-image.png">
@@ -21,10 +20,7 @@ I am committed to delivering high-quality code and strive to continuously learn 
 Thank you for taking the time to visit my page. I am always open to new opportunities, so please don't hesitate to contact me if you have any questions or if you would like to collaborate.
 
 ## My Tech Stack
-<!-- 
-Find badges here
-https://dev.to/envoy_/150-badges-for-github-pnk 
--->
+
 <table>
  <tr>
   <td>👩‍💻 Languages </td>
@@ -33,24 +29,24 @@ https://dev.to/envoy_/150-badges-for-github-pnk
    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   </td>
  </tr>
- <tr>
+<!--  <tr>
   <td>🚀 Frontend Frameworks </td>
   <td> 
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   </td>
- </tr>
+ </tr> -->
  <tr>
   <td>🚀 Backend Frameworks </td>
   <td> 
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Fastify.js-404D59?style=for-the-badge" />
   </td>
  </tr>
  <tr>
@@ -65,9 +61,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-   <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" />
-   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-   <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" />
+<!--    <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" /> -->
+<!--    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> -->
   </td>
  </tr>
  <tr>
@@ -83,13 +78,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   </td>
  </tr>
- <tr>
+<!--  <tr>
   <td>👨‍🔬 Workflow Platforms </td>
   <td> 
-   <img src="	https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-   <img src="" />
+   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   </td>
- </tr>
+ </tr> -->
  <tr>
    <td>👨‍🔬 IoT </td>
    <td> 
@@ -111,20 +105,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
   </td>
  </tr>
- <tr>
-  <td>🧰 Tools </td>
-  <td> 
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
-   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-  </td>
- </tr>
- <tr>
+<!--  <tr>
   <td>🖥️ Message Broker Platform </td>
   <td> 
    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
   </td>
- </tr>
+ </tr> -->
  <tr>
   <td>🖥️ Linters </td>
   <td> 
@@ -141,7 +127,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   </td>
  </tr> 
  <tr>
-  <td>🖥️ IDE </td>
+  <td>🖥️ IDE / Code Editors </td>
   <td> 
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
