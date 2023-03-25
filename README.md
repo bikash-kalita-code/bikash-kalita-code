@@ -1,6 +1,6 @@
 <!--
 Link for the badges: https://dev.to/envoy_/150-badges-for-github-pnk
-Github status: GitHub Stats
+Github status: https://dev.to/envoy_/150-badges-for-github-pnk#github-stats
 Project status : Add maintenance status images from the following link: https://dev.to/envoy_/150-badges-for-github-pnk#maintained
 Website Status : Add webstatus from images from the following linkL https://dev.to/envoy_/150-badges-for-github-pnk#website-stats
 -->
@@ -150,6 +150,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   </td>
  </tr>
  </table>
+ 
+ <div align="center">
+ <h2>👋 Connect with me on </h2>
+ 	<a href="https://twitter.com/bikash_kalita01"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
+ <a href="https://www.linkedin.com/in/bikash-kalita-312566183"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+ </div>
 
 <!-- 
 Collapsed Contents
