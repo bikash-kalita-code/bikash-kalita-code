@@ -23,7 +23,7 @@ Thank you for taking the time to visit my page. I am always open to new opportun
 
 <table>
  <tr>
-  <td>👩‍💻 Languages </td>
+  <td>Languages </td>
   <td>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -35,14 +35,14 @@ Thank you for taking the time to visit my page. I am always open to new opportun
   </td>
  </tr>
 <!--  <tr>
-  <td>🚀 Frontend Frameworks </td>
+  <td>Frontend Frameworks </td>
   <td> 
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   </td>
  </tr> -->
  <tr>
-  <td>🚀 Backend Frameworks </td>
+  <td>Backend Frameworks </td>
   <td> 
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
@@ -50,13 +50,13 @@ Thank you for taking the time to visit my page. I am always open to new opportun
   </td>
  </tr>
  <tr>
-  <td>🚀 Mobile Frameworks </td>
+  <td>Mobile Frameworks </td>
   <td> 
    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   </td>
  </tr>
  <tr>
-  <td>⚡ Databases</td>
+  <td>Databases</td>
   <td> 
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -66,26 +66,26 @@ Thank you for taking the time to visit my page. I am always open to new opportun
   </td>
  </tr>
  <tr>
-  <td>📑 Version control </td>
+  <td>Version control </td>
   <td>
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </td>
  </tr>
  <tr>
-  <td>👨‍🔬 Testing </td>
+  <td>Testing </td>
   <td> 
    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   </td>
  </tr>
 <!--  <tr>
-  <td>👨‍🔬 Workflow Platforms </td>
+  <td>Workflow Platforms </td>
   <td> 
    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   </td>
  </tr> -->
  <tr>
-   <td>👨‍🔬 IoT </td>
+   <td>IoT </td>
    <td> 
    <!-- Sub categorize the following into "Prototyping tools"  -->
    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
@@ -93,33 +93,33 @@ Thank you for taking the time to visit my page. I am always open to new opportun
   </td>
  </tr>
  <tr>
-  <td>👨‍🔬 ORM </td>
+  <td>ORM </td>
   <td> 
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   </td>
  </tr>
  <tr>
-  <td>📦 Package Manager </td>
+  <td>Package Manager </td>
   <td> 
    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
   </td>
  </tr>
 <!--  <tr>
-  <td>🖥️ Message Broker Platform </td>
+  <td>Message Broker Platform </td>
   <td> 
    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
   </td>
  </tr> -->
  <tr>
-  <td>🖥️ Linters </td>
+  <td>Linters </td>
   <td> 
     <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
     <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
   </td>
  </tr>
  <tr>
-  <td>🖥️ OS </td>
+  <td>OS </td>
   <td> 
    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
@@ -127,7 +127,7 @@ Thank you for taking the time to visit my page. I am always open to new opportun
   </td>
  </tr> 
  <tr>
-  <td>🖥️ IDE / Code Editors </td>
+  <td>IDE / Code Editors </td>
   <td> 
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
