@@ -161,6 +161,10 @@ Thank you for taking the time to visit my page. I am always open to new opportun
 <a href="https://github.com/bikash-kalita-code/MHealthBackend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikash-kalita-code&repo=MHealthBackend&theme=buefy" />
 </a>
+
+<a href="https://github.com/bikash-kalita-code/fastify-gmail-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikash-kalita-code&repo=fastify-gmail-api&theme=buefy" />
+</a>
  
 ## 👋 Connect with me on
 <div align="center">
