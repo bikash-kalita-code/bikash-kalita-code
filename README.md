@@ -119,12 +119,12 @@ Thank you for taking the time to visit my page. I am always open to new opportun
    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
   </td>
  </tr>
-<!--  <tr>
+ <tr>
   <td>Message Broker Platform </td>
   <td> 
    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
   </td>
- </tr> -->
+ </tr>
  <tr>
   <td>Linters </td>
   <td> 
