@@ -24,6 +24,7 @@ Thank you for taking the time to visit my page. I am always open to new opportun
 <br />
 
 <p align="center">
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64afdf5f5f038d81eeaebc49?variant=dark" alt="roadmap.sh"/></a><br/>
  <img src="https://wakatime.com/share/@7a5570d5-15f6-4086-a7d7-ba5fc6f3cbf6/76fe9690-add2-4fca-9b4d-2b16ad2b10ef.svg" width="40%" />
  <img src="https://wakatime.com/share/@7a5570d5-15f6-4086-a7d7-ba5fc6f3cbf6/522ad109-5e82-46a4-8047-68512fa77db5.svg" width="40%" />
 </p>
