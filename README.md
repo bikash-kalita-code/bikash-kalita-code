@@ -17,8 +17,8 @@ Top Github profile README templates : https://dev.to/github/10-standout-github-p
 <img src="https://img.shields.io/github/followers/bikash-kalita-code.svg?style=social&label=Follow&maxAge=2592000" />
 
 ## About me
-I am a Backend and Mobile Developer with a passion for creating high-performance applications. 
-I am committed to delivering high-quality code and strive to continuously learn and improve my skills. You can find some of my projects on my GitHub page.
+I am a **Developer** with a passion for creating high-performance applications. 
+I am committed to delivering high-quality code and strive to continuously learn and improve my skills.
 
 Thank you for taking the time to visit my page. I am always open to new opportunities, so please don't hesitate to contact me if you have any questions or if you would like to collaborate.
 <br />
