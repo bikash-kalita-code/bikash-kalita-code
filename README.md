@@ -87,6 +87,7 @@ Thank you for taking the time to visit my page. I am always open to new opportun
   <td>
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
   </td>
  </tr>
  <tr>
@@ -164,20 +165,6 @@ Thank you for taking the time to visit my page. I am always open to new opportun
   </th>
  </tr>
 </table>
-
-## Top Repositories
-
-### MHealth Backend
-<a href="https://github.com/bikash-kalita-code/MHealthBackend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikash-kalita-code&repo=MHealthBackend&theme=buefy" />
-</a>
-<br />
-
-[![wakatime](https://wakatime.com/badge/github/bikash-kalita-code/MHealthBackend.svg)](https://wakatime.com/badge/github/bikash-kalita-code/MHealthBackend)
-
-<a href="https://github.com/bikash-kalita-code/fastify-gmail-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bikash-kalita-code&repo=fastify-gmail-api&theme=buefy" />
-</a>
  
 ## 👋 Connect with me on
 <div align="center">
